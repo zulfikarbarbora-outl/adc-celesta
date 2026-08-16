@@ -1,0 +1,30 @@
+{
+  "library": "Celesta (Sliced)",
+  "format": "opus-48k+flac",
+  "opusFileCount": 1,
+  "flacFileCount": 1,
+  "files": [
+    {
+      "file": "slice_0000_midi058.opus",
+      "name": "slice_0000_midi058",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-celesta/main/slice_0000_midi058.opus",
+      "size": 35063
+    }
+  ],
+  "quality": {
+    "sampleRate": 22050,
+    "duration": 7.31,
+    "dcOffset": -3e-06,
+    "peakAmplitude": 0.0863,
+    "noiseFloorDb": -81.4,
+    "noiseFloorRms": 8.5e-05,
+    "dynamicRangeDb": 60.1,
+    "silenceRatio": 0.3746,
+    "clippedSamples": 0,
+    "clipRatio": 0.0,
+    "clipRuns": 0,
+    "clickCount": 0,
+    "humFrequencies": [],
+    "qualityScore": 100
+  }
+}
